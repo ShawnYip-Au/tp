@@ -14,6 +14,7 @@ You can reach us at the github `https://github.com/AY2223S2-CS2103T-F12-2`
 
 [[github](https://github.com/anchengyang)]
 [[portfolio](team/anchengyang.md)]
+[[PPP](https://ay2223s2-cs2103t-f12-2.github.io/tp/team/anchengyang.html)]
 
 * Role: Project Advisor
 * Responsibilities: Data
@@ -24,6 +25,8 @@ You can reach us at the github `https://github.com/AY2223S2-CS2103T-F12-2`
 
 [[github](https://github.com/harin0826)]
 [[portfolio](team/harin0826.md)]
+[[PPP](https://ay2223s2-cs2103t-f12-2.github.io/tp/team/harin0826.html)]
+
 
 * Role: Team Lead
 * Responsibilities: UI
@@ -33,6 +36,7 @@ You can reach us at the github `https://github.com/AY2223S2-CS2103T-F12-2`
 <img src="images/nappysprout.png" width="200px">
 
 [[github](https://github.com/nappysprout)] [[portfolio](team/nappysprout.md)]
+[[PPP](https://ay2223s2-cs2103t-f12-2.github.io/tp/team/nappysprout.html)]
 
 * Role: Developer
 * Responsibilities: Data
@@ -43,6 +47,7 @@ You can reach us at the github `https://github.com/AY2223S2-CS2103T-F12-2`
 
 [[github](https://github.com/linustws)]
 [[portfolio](team/linustws.md)]
+[[PPP](https://ay2223s2-cs2103t-f12-2.github.io/tp/team/linustws.html)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
@@ -53,6 +58,7 @@ You can reach us at the github `https://github.com/AY2223S2-CS2103T-F12-2`
 
 [[github](http://github.com/shawnyip-au)]
 [[portfolio](team/shawnyip-au.md)]
+[[PPP](https://ay2223s2-cs2103t-f12-2.github.io/tp/team/shawnyip-au.html)]
 
 * Role: Developer
 * Responsibilities: UI
